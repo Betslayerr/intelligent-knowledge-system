@@ -1,8 +1,44 @@
 [
-  {"course": "Artificial Intelligence", "requires": "Data Structures"},
-  {"course": "Machine Learning", "requires": "Artificial Intelligence"},
-  {"course": "Cybersecurity", "requires": "Computer Networks"},
-  {"course": "Data Structures", "teaches": "Problem Solving"},
-  {"course": "Machine Learning", "teaches": "Modeling"},
-  {"course": "Cybersecurity", "teaches": "Security Analysis"}
+  {
+    "course_id": "CS 2336",
+    "course_name": "Data Structures",
+    "type": "course",
+    "topics": ["data structures", "problem solving", "algorithms basics"]
+  },
+  {
+    "course_id": "CS 3331",
+    "course_name": "Programming Languages",
+    "type": "course",
+    "prerequisites": ["CS 2336"],
+    "topics": ["language concepts", "syntax", "semantics"]
+  },
+  {
+    "course_id": "CS 3344",
+    "course_name": "Computer Architecture",
+    "type": "course",
+    "prerequisites": ["CS 3304"],
+    "topics": ["computer hardware", "instruction set design", "computer arithmetic"]
+  },
+  {
+    "course_id": "CS 3352",
+    "course_name": "Analysis of Algorithms",
+    "type": "course",
+    "prerequisites": ["CS 2336"],
+    "corequisites": ["MATH 2305"],
+    "topics": ["algorithm analysis", "binary search trees", "hash tables", "graph algorithms"]
+  },
+  {
+    "course_id": "CS 3371",
+    "course_name": "Computer Game Development I",
+    "type": "course",
+    "prerequisites": ["CS 2336"],
+    "topics": ["realtime graphics", "audio", "interactive multimedia"]
+  },
+  {
+    "course_id": "CS 4091",
+    "course_name": "Research",
+    "type": "course",
+    "prerequisites": ["Junior or Senior CS major", "Department approval"],
+    "topics": ["faculty research", "independent investigation"]
+  }
 ]

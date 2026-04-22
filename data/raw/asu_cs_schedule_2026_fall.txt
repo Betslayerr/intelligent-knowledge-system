@@ -1,0 +1,547 @@
+ASU CS Course Data
+
+Search Results 57 Classes
+Term: 2026 FALL SEMESTERSubject: Computer Science
+
+Search Again
+
+CRN	Subject	Course	Section	Format	Credits	Title	Status	Meeting Times and Dates	Instructor	Attributes	Campus	Schedule Type	Linked Sections	Add	
+12195	CS	1314	D10	Online Course	3	Introduction to Programming & Problem Solving	FULL: 0 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+12196	CS	1314	D20	Online Course	3	Introduction to Programming & Problem Solving	5 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+12043	CS	1336	010	Face to Face	3	Computer Science I	25 of 25 seats remain.
+Time Conflict!	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+09:00 AM - 09:50 AM Type: Class Building: Math Computer Science Room: 111A Start Date: 08/24/2026 End Date: 12/11/2026			Angelo State University	Lecture		Add	
+12047	CS	1336	020	Face to Face	3	Computer Science I	20 of 25 seats remain.	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+10:00 AM - 10:50 AM Type: Class Building: Math Computer Science Room: 111A Start Date: 08/24/2026 End Date: 12/11/2026			Angelo State University	Lecture		Add	
+12049	CS	1336	030	Face to Face	3	Computer Science I	18 of 25 seats remain.	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+11:00 AM - 11:50 AM Type: Class Building: Math Computer Science Room: 111A Start Date: 08/24/2026 End Date: 12/11/2026			Angelo State University	Lecture		Add	
+12135	CS	1336	040	Face to Face	3	Computer Science I	15 of 25 seats remain.
+Time Conflict!	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+09:30 AM - 10:45 AM Type: Class Building: Math Computer Science Room: 111A Start Date: 08/24/2026 End Date: 12/11/2026	Laidig, Robin (Primary)		Angelo State University	Lecture		Add	
+12052	CS	1336	D10	Online Course	3	Computer Science I	21 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+12140	CS	1337	010	Face to Face	3	Computer Science II	15 of 25 seats remain.
+Time Conflict!	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+11:00 AM - 12:15 PM Type: Class Building: Math Computer Science Room: 111A Start Date: 08/24/2026 End Date: 12/11/2026	Laidig, Robin (Primary)		Angelo State University	Lecture		Add	
+13271	CS	1337	D10	Online Course	3	Computer Science II	3 of 5 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026	Laidig, Robin (Primary)		Distance Education	Lecture		Add	
+12093	CS	1351	D10	Online Course	3	Java Programming	19 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+
+
+CRN	Subject	Course	Section	Format	Credits	Title	Status	Meeting Times and Dates	Instructor	Attributes	Campus	Schedule Type	Linked Sections	Add	
+12150	CS	2336	010	Face to Face	3	Data Structures and Algorithms	10 of 25 seats remain.
+Time Conflict!	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+09:00 AM - 09:50 AM Type: Class Building: Math Computer Science Room: 114 Start Date: 08/24/2026 End Date: 12/11/2026	Motl, Mark (Primary)		Angelo State University	Lecture		Add	
+12157	CS	2336	020	Face to Face	3	Data Structures and Algorithms	2 of 25 seats remain.	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+10:00 AM - 10:50 AM Type: Class Building: Math Computer Science Room: 114 Start Date: 08/24/2026 End Date: 12/11/2026	Motl, Mark (Primary)		Angelo State University	Lecture		Add	
+13272	CS	2336	D10	Online Course	3	Data Structures and Algorithms	3 of 5 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026	Motl, Mark (Primary)		Distance Education	Lecture		Add	
+13273	CS	2336	D20	Online Course	3	Data Structures and Algorithms	5 of 5 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026	Motl, Mark (Primary)		Distance Education	Lecture		Add	
+12114	CS	3310	010	Face to Face	3	Principles of Linux	FULL: 0 of 30 seats remain.	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+01:00 PM - 01:50 PM Type: Class Building: Vincent Room: 287 Start Date: 08/24/2026 End Date: 12/11/2026	Hossain, Delwar (Primary)		Angelo State University	Lecture		Add	
+13274	CS	3310	D10	Online Course	3	Principles of Linux	2 of 5 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026	Hossain, Delwar (Primary)		Distance Education	Lecture		Add	
+12054	CS	3311	010	Face to Face	3	Database Systems	FULL: 0 of 35 seats remain.	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+12:30 PM - 01:45 PM Type: Class Building: Math Computer Science Room: 114 Start Date: 08/24/2026 End Date: 12/11/2026	Choupani, Roya (Primary)		Angelo State University	Lecture		Add	
+12194	CS	3311	020	Face to Face	3	Database Systems	3 of 35 seats remain.	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+09:30 AM - 10:45 AM Type: Class Building: Math Computer Science Room: 114 Start Date: 08/24/2026 End Date: 12/11/2026			Angelo State University	Lecture		Add	
+13275	CS	3311	D10	Online Course	3	Database Systems	2 of 5 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026	Choupani, Roya (Primary)		Distance Education	Lecture		Add	
+13276	CS	3311	D20	Online Course	3	Database Systems	2 of 5 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+
+
+CRN	Subject	Course	Section	Format	Credits	Title	Status	Meeting Times and Dates	Instructor	Attributes	Campus	Schedule Type	Linked Sections	Add	
+12203	CS	6099	D10	Online Course	3	Thesis	10 of 10 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026		CBM Excluded from 3Peat Calc
+
+Master 6 Class Level	Distance Education	Thesis		Add	
+12201	CS	4399	D10	Online Course	3	Senior Design Project	20 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+12199	CS	4091	010	Face to Face	3	Research	4 of 5 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Math Computer Science Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Angelo State University	Independent Study		Add	
+12198	CS	4071	D10	Online Course	3	Internship	13 of 15 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Practicum		Add	
+12196	CS	1314	D20	Online Course	3	Introduction to Programming & Problem Solving	5 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+12195	CS	1314	D10	Online Course	3	Introduction to Programming & Problem Solving	FULL: 0 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+12194	CS	3311	020	Face to Face	3	Database Systems	3 of 35 seats remain.	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+09:30 AM - 10:45 AM Type: Class Building: Math Computer Science Room: 114 Start Date: 08/24/2026 End Date: 12/11/2026			Angelo State University	Lecture		Add	
+12185	CS	4301	020	Face to Face	3	Automata Theory and Formal Languages	FULL: 0 of 30 seats remain.	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+11:00 AM - 12:15 PM Type: Class Building: Math Computer Science Room: 112 Start Date: 08/24/2026 End Date: 12/11/2026	Motl, Mark (Primary)		Angelo State University	Lecture		Add	
+12169	CS	4301	010	Face to Face	3	Automata Theory and Formal Languages	17 of 30 seats remain.
+Time Conflict!	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+09:30 AM - 10:45 AM Type: Class Building: Math Computer Science Room: 112 Start Date: 08/24/2026 End Date: 12/11/2026	Motl, Mark (Primary)		Angelo State University	Lecture		Add	
+12157	CS	2336	020	Face to Face	3	Data Structures and Algorithms	2 of 25 seats remain.	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+10:00 AM - 10:50 AM Type: Class Building: Math Computer Science Room: 114 Start Date: 08/24/2026 End Date: 12/11/2026	Motl, Mark (Primary)		Angelo State University	Lecture		Add	
+
+CRN	Subject	Course	Section	Format	Credits	Title	Status	Meeting Times and Dates	Instructor	Attributes	Campus	Schedule Type	Linked Sections	Add	
+12150	CS	2336	010	Face to Face	3	Data Structures and Algorithms	10 of 25 seats remain.
+Time Conflict!	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+09:00 AM - 09:50 AM Type: Class Building: Math Computer Science Room: 114 Start Date: 08/24/2026 End Date: 12/11/2026	Motl, Mark (Primary)		Angelo State University	Lecture		Add	
+12147	CS	6339	DS1	Online Course	3	Al Systems and Applications	17 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 10/19/2026 End Date: 12/11/2026	Laidig, Robin (Primary)	Master 6 Class Level	Distance Education	Lecture		Add	
+12145	CS	4339	D10	Online Course	3	AI Systems and Applications	24 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026	Laidig, Robin (Primary)		Distance Education	Lecture		Add	
+12140	CS	1337	010	Face to Face	3	Computer Science II	15 of 25 seats remain.
+Time Conflict!	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+11:00 AM - 12:15 PM Type: Class Building: Math Computer Science Room: 111A Start Date: 08/24/2026 End Date: 12/11/2026	Laidig, Robin (Primary)		Angelo State University	Lecture		Add	
+12135	CS	1336	040	Face to Face	3	Computer Science I	15 of 25 seats remain.
+Time Conflict!	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+09:30 AM - 10:45 AM Type: Class Building: Math Computer Science Room: 111A Start Date: 08/24/2026 End Date: 12/11/2026	Laidig, Robin (Primary)		Angelo State University	Lecture		Add	
+12132	CS	6315	DS1	Online Course	3	Computer and Network Security	25 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 10/19/2026 End Date: 12/11/2026	Krishnan, Sundar (Primary)	Master 6 Class Level	Distance Education	Lecture		Add	
+12128	CS	4390	D10	Online Course	3	Cryptography	8 of 40 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026	Krishnan, Sundar (Primary)		Distance Education	Lecture		Add	
+12124	CS	4320	010	Face to Face	3	Introduction to Computer and Network Security	6 of 25 seats remain.
+Time Conflict!	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+11:00 AM - 12:15 PM Type: Class Building: Vincent Room: 287 Start Date: 08/24/2026 End Date: 12/11/2026	Hossain, Delwar (Primary)	REAL: Career Readiness Course	Angelo State University	Lecture		Add	
+12114	CS	3310	010	Face to Face	3	Principles of Linux	FULL: 0 of 30 seats remain.	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+01:00 PM - 01:50 PM Type: Class Building: Vincent Room: 287 Start Date: 08/24/2026 End Date: 12/11/2026	Hossain, Delwar (Primary)		Angelo State University	Lecture		Add	
+12111	CS	6314	DF1	Online Course	3	Computer Networks	17 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 10/16/2026	Hossain, Delwar (Primary)	Master 6 Class Level	Distance Education	Lecture		Add	
+
+
+CRN	Subject	Course	Section	Format	Credits	Title	Status	Meeting Times and Dates	Instructor	Attributes	Campus	Schedule Type	Linked Sections	Add	
+12107	CS	4360	D10	Online Course	3	Host and Device Security	19 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026	Krishnan, Sundar (Primary)		Distance Education	Lecture		Add	
+12103	CS	4327	010	Face to Face	3	Reinforcement Learning	25 of 25 seats remain.	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+11:00 AM - 11:50 AM Type: Class Building: Math Computer Science Room: 115 Start Date: 08/24/2026 End Date: 12/11/2026	Hossain, Delwar (Primary)		Angelo State University	Lecture		Add	
+12093	CS	1351	D10	Online Course	3	Java Programming	19 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+12089	CS	6338	DF1	Online Course	3	Knowledge Engineering	23 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 10/16/2026	Doğdu, Erdoğan (Primary)	Master 6 Class Level	Distance Education	Lecture		Add	
+12084	CS	6310	DS1	Online Course	3	Database Systems	13 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 10/19/2026 End Date: 12/11/2026	Doğdu, Erdoğan (Primary)	Master 6 Class Level	Distance Education	Lecture		Add	
+12078	CS	6300	DF1	Online Course	3	Introduction to Programming for Data Science	22 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 10/16/2026	Doğdu, Erdoğan (Primary)	Master 6 Class Level	Distance Education	Lecture		Add	
+12076	CS	4330	010	Face to Face	3	Introduction to Data Science	12 of 25 seats remain.	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+01:00 PM - 01:50 PM Type: Class Building: Math Computer Science Room: 114 Start Date: 08/24/2026 End Date: 12/11/2026	Doğdu, Erdoğan (Primary)		Angelo State University	Lecture		Add	
+12074	CS	6308	DS1	Online Course	3	Ethical Issues in Computing	20 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 10/19/2026 End Date: 12/11/2026		Master 6 Class Level	Distance Education	Lecture		Add	
+12072	CS	4307	D10	Online Course	3	Ethical Issues in Computing	6 of 30 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+12068	CS	6319	DS1	Online Course	3	Machine Learning	16 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 10/19/2026 End Date: 12/11/2026	Choupani, Roya (Primary)	Master 6 Class Level	Distance Education	Lecture		Add	
+
+CRN	Subject	Course	Section	Format	Credits	Title	Status	Meeting Times and Dates	Instructor	Attributes	Campus	Schedule Type	Linked Sections	Add	
+12067	CS	6318	DF1	Online Course	3	Artificial Intelligence	11 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 10/16/2026	Choupani, Roya (Primary)	Master 6 Class Level	Distance Education	Lecture		Add	
+12060	CS	4319	010	Face to Face	3	Machine Learning	13 of 25 seats remain.
+Time Conflict!	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+11:00 AM - 12:15 PM Type: Class Building: Math Computer Science Room: 114 Start Date: 08/24/2026 End Date: 12/11/2026	Choupani, Roya (Primary)		Angelo State University	Lecture		Add	
+12054	CS	3311	010	Face to Face	3	Database Systems	FULL: 0 of 35 seats remain.	Tuesday,Thursday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+12:30 PM - 01:45 PM Type: Class Building: Math Computer Science Room: 114 Start Date: 08/24/2026 End Date: 12/11/2026	Choupani, Roya (Primary)		Angelo State University	Lecture		Add	
+12052	CS	1336	D10	Online Course	3	Computer Science I	21 of 25 seats remain.	None
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+ - Type: Class Building: Online Class Room: None Start Date: 08/24/2026 End Date: 12/11/2026			Distance Education	Lecture		Add	
+12049	CS	1336	030	Face to Face	3	Computer Science I	18 of 25 seats remain.	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+11:00 AM - 11:50 AM Type: Class Building: Math Computer Science Room: 111A Start Date: 08/24/2026 End Date: 12/11/2026			Angelo State University	Lecture		Add	
+12047	CS	1336	020	Face to Face	3	Computer Science I	20 of 25 seats remain.	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+10:00 AM - 10:50 AM Type: Class Building: Math Computer Science Room: 111A Start Date: 08/24/2026 End Date: 12/11/2026			Angelo State University	Lecture		Add	
+12043	CS	1336	010	Face to Face	3	Computer Science I	25 of 25 seats remain.
+Time Conflict!	Monday,Wednesday,Friday
+	•	S
+	•	M
+	•	T
+	•	W
+	•	T
+	•	F
+	•	S
+09:00 AM - 09:50 AM Type: Class Building: Math Computer Science Room: 111A Start Date: 08/24/2026 End Date: 12/11/2026			Angelo State University	Lecture		Add	
