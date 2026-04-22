@@ -1,0 +1,8 @@
+[
+  {"course": "Artificial Intelligence", "requires": "Data Structures"},
+  {"course": "Machine Learning", "requires": "Artificial Intelligence"},
+  {"course": "Cybersecurity", "requires": "Computer Networks"},
+  {"course": "Data Structures", "teaches": "Problem Solving"},
+  {"course": "Machine Learning", "teaches": "Modeling"},
+  {"course": "Cybersecurity", "teaches": "Security Analysis"}
+]
