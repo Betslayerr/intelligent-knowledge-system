@@ -62,6 +62,9 @@ def build_graph(courses):
 
         for fmt in course.get("formats", []):
             graph.add_node(fmt, node_type="format", label=fmt)
+
+            # only connect Face to Face (reduce clutter)
+        if fmt == "Face to Face":
             graph.add_edge(code, fmt, relation="offered_as")
 
     return graph
@@ -72,7 +75,7 @@ def visualize_graph(graph):
 
     plt.figure(figsize=(14, 10))
 
-    pos = nx.spring_layout(graph, seed=42, k=0.8)
+    pos = nx.spring_layout(graph, seed=42, k=1.2)
 
     course_nodes = [
         node for node, data in graph.nodes(data=True)
@@ -89,16 +92,19 @@ def visualize_graph(graph):
         if data.get("node_type") == "format"
     ]
 
-    nx.draw_networkx_nodes(graph, pos, nodelist=course_nodes, node_size=900)
-    nx.draw_networkx_nodes(graph, pos, nodelist=category_nodes, node_size=1600)
-    nx.draw_networkx_nodes(graph, pos, nodelist=format_nodes, node_size=1400)
+    nx.draw_networkx_nodes(graph, pos, nodelist=course_nodes, node_color="skyblue", node_size=900)
+    nx.draw_networkx_nodes(graph, pos, nodelist=category_nodes, node_color="orange", node_size=1500)
+    nx.draw_networkx_nodes(graph, pos, nodelist=format_nodes, node_color="lightgreen", node_size=1200)
 
     nx.draw_networkx_edges(graph, pos, arrows=True, arrowstyle="->", arrowsize=12)
 
-    labels = {
-        node: data.get("label", node)
-        for node, data in graph.nodes(data=True)
-    }
+    labels = {}
+
+    for node, data in graph.nodes(data=True):
+        if data.get("node_type") == "course":
+            labels[node] = node  # chỉ show code: CS 3311
+    else:
+        labels[node] = node
 
     nx.draw_networkx_labels(graph, pos, labels=labels, font_size=8)
 
