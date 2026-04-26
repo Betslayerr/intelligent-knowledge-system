@@ -1,0 +1,24 @@
+{
+  "query_type": "course_details",
+  "course_code": "CS 3311",
+  "result": {
+    "course_code": "CS 3311",
+    "title": "Database Systems",
+    "credits": 3,
+    "category": "Data/Database",
+    "relationships": [
+      {
+        "target": "Data/Database",
+        "relation": "belongs_to_category"
+      },
+      {
+        "target": "Face to Face",
+        "relation": "offered_as"
+      },
+      {
+        "target": "Online Course",
+        "relation": "offered_as"
+      }
+    ]
+  }
+}
