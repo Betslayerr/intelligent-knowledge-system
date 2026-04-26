@@ -15,7 +15,7 @@
   },
   {
     "course_code": "CS 1336",
-    "title": "Computer Science I\t21\u00a0of 25 seats remain.",
+    "title": "Computer Science I",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -27,7 +27,7 @@
   },
   {
     "course_code": "CS 1337",
-    "title": "Computer Science II\t3\u00a0of 5 seats remain.",
+    "title": "Computer Science II",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -38,7 +38,7 @@
   },
   {
     "course_code": "CS 1351",
-    "title": "Java Programming\t19\u00a0of 25 seats remain.",
+    "title": "Java Programming",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -50,7 +50,7 @@
   },
   {
     "course_code": "CS 2336",
-    "title": "Data Structures and Algorithms\t3\u00a0of 5 seats remain.",
+    "title": "Data Structures and Algorithms",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -91,7 +91,7 @@
   },
   {
     "course_code": "CS 4071",
-    "title": "Internship\t13\u00a0of 15 seats remain.",
+    "title": "Internship",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -102,7 +102,7 @@
   },
   {
     "course_code": "CS 4091",
-    "title": "Research\t4\u00a0of 5 seats remain.",
+    "title": "Research",
     "credits": 3,
     "formats": [
       "Face to Face"
@@ -124,7 +124,7 @@
   },
   {
     "course_code": "CS 4307",
-    "title": "Ethical Issues in Computing\t6\u00a0of 30 seats remain.",
+    "title": "Ethical Issues in Computing",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -135,7 +135,7 @@
   },
   {
     "course_code": "CS 4339",
-    "title": "AI Systems and Applications\t24\u00a0of 25 seats remain.",
+    "title": "AI Systems and Applications",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -146,7 +146,7 @@
   },
   {
     "course_code": "CS 4360",
-    "title": "Host and Device Security\t19\u00a0of 25 seats remain.",
+    "title": "Host and Device Security",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -157,7 +157,7 @@
   },
   {
     "course_code": "CS 4390",
-    "title": "Cryptography\t8\u00a0of 40 seats remain.",
+    "title": "Cryptography",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -168,7 +168,7 @@
   },
   {
     "course_code": "CS 4399",
-    "title": "Senior Design Project\t20\u00a0of 25 seats remain.",
+    "title": "Senior Design Project",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -179,7 +179,7 @@
   },
   {
     "course_code": "CS 6099",
-    "title": "Thesis\t10\u00a0of 10 seats remain.",
+    "title": "Thesis",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -190,7 +190,7 @@
   },
   {
     "course_code": "CS 6300",
-    "title": "Introduction to Programming for Data Science\t22\u00a0of 25 seats remain.",
+    "title": "Introduction to Programming for Data Science",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -201,7 +201,7 @@
   },
   {
     "course_code": "CS 6308",
-    "title": "Ethical Issues in Computing\t20\u00a0of 25 seats remain.",
+    "title": "Ethical Issues in Computing",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -212,7 +212,7 @@
   },
   {
     "course_code": "CS 6310",
-    "title": "Database Systems\t13\u00a0of 25 seats remain.",
+    "title": "Database Systems",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -223,7 +223,7 @@
   },
   {
     "course_code": "CS 6314",
-    "title": "Computer Networks\t17\u00a0of 25 seats remain.",
+    "title": "Computer Networks",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -234,7 +234,7 @@
   },
   {
     "course_code": "CS 6315",
-    "title": "Computer and Network Security\t25\u00a0of 25 seats remain.",
+    "title": "Computer and Network Security",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -245,7 +245,7 @@
   },
   {
     "course_code": "CS 6318",
-    "title": "Artificial Intelligence\t11\u00a0of 25 seats remain.",
+    "title": "Artificial Intelligence",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -256,7 +256,7 @@
   },
   {
     "course_code": "CS 6319",
-    "title": "Machine Learning\t16\u00a0of 25 seats remain.",
+    "title": "Machine Learning",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -267,7 +267,7 @@
   },
   {
     "course_code": "CS 6338",
-    "title": "Knowledge Engineering\t23\u00a0of 25 seats remain.",
+    "title": "Knowledge Engineering",
     "credits": 3,
     "formats": [
       "Online Course"
@@ -278,7 +278,7 @@
   },
   {
     "course_code": "CS 6339",
-    "title": "Al Systems and Applications\t17\u00a0of 25 seats remain.",
+    "title": "Al Systems and Applications",
     "credits": 3,
     "formats": [
       "Online Course"

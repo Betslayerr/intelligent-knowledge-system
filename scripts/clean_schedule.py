@@ -28,6 +28,8 @@ def parse_courses(text: str):
             format_type = match.group(3).strip()
             credits = match.group(4)
             title = match.group(5).strip()
+            title = title.split("\t")[0].strip()
+            title = title.replace("\u00a0", " ")
 
             course_code = f"CS {course_number}"
 
